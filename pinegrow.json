@@ -1,0 +1,83 @@
+{
+  "files": {
+    "src/pages/index.vue": {
+      "frameworks": [
+        "@vue/devtools",
+        "pg.insight.events",
+        "vite-plugin-vue-devtools",
+        "pg.vue.tree.painter",
+        "unplugin-auto-import",
+        "unplugin-vue-components",
+        "pg.css.grid",
+        "@unocss/preset-icons",
+        "project",
+        "pg.image.overlay",
+        "@pinegrow/vite-plugin",
+        "pg.code-validator",
+        "vitepress",
+        "pg.project.items",
+        "vue",
+        "pg.asset.manager",
+        "app_designer",
+        "vuetify",
+        "tw.flowbite",
+        "pg.html"
+      ]
+    },
+    "src/components/SampleCard.vue": {
+      "frameworks": [
+        "@vue/devtools",
+        "vite-plugin-vue-devtools",
+        "unplugin-auto-import",
+        "unplugin-vue-components",
+        "@unocss/preset-icons",
+        "@pinegrow/vite-plugin",
+        "vitepress",
+        "vue",
+        "app_designer",
+        "project",
+        "pg.insight.events",
+        "pg.vue.tree.painter",
+        "pg.css.grid",
+        "pg.image.overlay",
+        "pg.code-validator",
+        "pg.project.items",
+        "pg.asset.manager",
+        "vuetify",
+        "tw.flowbite",
+        "pg.html"
+      ]
+    }
+  },
+  "template_framework_id": "vue",
+  "open-pages": ["src/pages/index.vue", "src/components/SampleCard.vue"],
+  "breakpoints": ["600px", "960px", "1280px", "1920px", "2560px"],
+  "frameworks": [
+    "@vue/devtools",
+    "pg.insight.events",
+    "vite-plugin-vue-devtools",
+    "pg.vue.tree.painter",
+    "unplugin-auto-import",
+    "unplugin-vue-components",
+    "pg.css.grid",
+    "@unocss/preset-icons",
+    "project",
+    "pg.image.overlay",
+    "@pinegrow/vite-plugin",
+    "pg.code-validator",
+    "vitepress",
+    "pg.project.items",
+    "vue",
+    "pg.asset.manager",
+    "app_designer",
+    "vuetify",
+    "tw.flowbite",
+    "pg.html"
+  ],
+  "urls": {
+    "src/pages/index.vue": { "open-page-views": [{ "w": 1024, "h": 0 }] },
+    "src/components/SampleCard.vue": {
+      "open-page-views": [{ "w": 1024, "h": 0 }]
+    }
+  }
+}
